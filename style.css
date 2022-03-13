@@ -9,6 +9,10 @@
     padding: 0;
 }
 
+body * {
+    box-sizing: border-box
+}
+
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -54,22 +58,27 @@ body {
     padding: 20px 0;
 }
 
-
-
 #navbar .navbar-container ul {
     display: flex;
     list-style: none;
     font-weight: bold;
+    color: white;
 }
 
 #navbar .navbar-container ul li {
     padding: 0 20px;
     transition: all 500ms ease;
+    color: white;
 }
 
-#navbar .navbar-container ul li:hover {
+#navbar .navbar-container ul li a:hover {
     color: green;
     cursor: pointer;
+    color: white;
+}
+
+#navbar .navbar-container ul li a:visited {
+    color: white;
 }
 
 #navbar .navbar-container ul li:nth-child(3) {
@@ -207,4 +216,42 @@ body {
     width: auto;
     display: inline-block;
     margin-left: 10px;
+}
+
+.Link {
+    text-decoration: none;
+    color: white;
+}
+
+
+@media only screen and (max-width: 950px){
+    .card-login{
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .main-login{
+        flex-direction: column;
+    }
+    .left-login > h1 {
+        display: none;
+    }
+    .footer-content {
+        width: 100%;
+        height: auto;
+    }
+
+    .right-login {
+        width: 100%;
+        height: auto;
+    }
+
+    .left-login-image{
+        width: 50vw;
+    }
+
+    .card-login {
+        width: 90%;
+    }
 }
