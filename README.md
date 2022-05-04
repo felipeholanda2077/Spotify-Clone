@@ -4,18 +4,18 @@
    </a>
 </p>
 
-<h1 align="center">Sobre o Projeto</h1>
-<h3 align="center">Spotify-Clone</h3>
-
-<h4 align="center">Site feito em HTML e CSS a página do Spotify</h4>
-
-<br>
-
 <p align="center">Índice<br>
 <a href="#sobre">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
+
+<br>
+
+<h1 align="center">Sobre o Projeto</h1>
+<h3 align="center">Spotify-Clone</h3>
+
+<h4 align="center">Site feito em HTML e CSS a página do Spotify</h4>
 
 <br>
 
