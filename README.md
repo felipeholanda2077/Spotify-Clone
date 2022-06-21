@@ -17,6 +17,14 @@
 <h1 align="center">Sobre o Projeto</h1>
 <h3 align="center">Spotify-Clone</h3>
 
+<br>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
+
+<br>
+
 <h4 align="center">Site feito em HTML e CSS a página do Spotify</h4>
 
 <br>
