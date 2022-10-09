@@ -33,7 +33,6 @@
    <img alt="Readme" title="Readme" src="Readme.png"/>
 </h1>
 
-
   ### Tecnologias 🚀
 
   As seguintes ferramentas foram usadas na construção do projeto:
